@@ -51,5 +51,5 @@ aitshal conview
 You will notice that ``conview`` will not return anything, but work on ``sudo conview``. However, the code remains in root, which can be removed securely from device user to access:
 ```
 cd
-rm ConView -r
+rm conview -r
 ```
