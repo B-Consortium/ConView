@@ -39,7 +39,7 @@ graph TD;
 ``conview`` needs tools like ``gcc``, ``make``,``curl``,``openssl`` and tools to compile both ``make`` and C projects. In that scenario, we can begin like:
 
 ```
-git clone https://github.com/B-Consortium/aitshal
+git clone https://github.com/B-Consortium/conview
 cd conview
 make conview
 sudo make install
